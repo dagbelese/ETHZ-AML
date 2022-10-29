@@ -1,4 +1,4 @@
 # ETHZ-AML
-Practical projects in advanced machine learning tasks
+Practical programming projects in the course Advanced Machine Learning 
 
 Task 1: Predict the age of a brain from MRI features
